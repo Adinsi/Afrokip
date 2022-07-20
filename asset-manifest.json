@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Adinsi.github.io/Afrokip/static/css/main.9e1f1285.css",
+    "main.js": "/Adinsi.github.io/Afrokip/static/js/main.e5f1d328.js",
+    "static/media/heroes.png": "/Adinsi.github.io/Afrokip/static/media/heroes.554f137472020a61d51a.png",
+    "index.html": "/Adinsi.github.io/Afrokip/index.html",
+    "main.9e1f1285.css.map": "/Adinsi.github.io/Afrokip/static/css/main.9e1f1285.css.map",
+    "main.e5f1d328.js.map": "/Adinsi.github.io/Afrokip/static/js/main.e5f1d328.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1f1285.css",
+    "static/js/main.e5f1d328.js"
+  ]
+}
