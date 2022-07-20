@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200;1,400&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+$color_Principal : blue;
+$color_secondary : rgb(133, 133, 157);
+$font_principal : 'Poppins' sans-serif;
+$font_secondary : 'Roboto' sans-serif;
+$max-height : '1200px';
+$min-height : '400px';
+
+a {
+    text-decoration: none;
+    margin-right: 20px;
+    display: block;
+}
+
+ul {
+    list-style: none;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.4rem;
+
+}
